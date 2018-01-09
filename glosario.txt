@@ -1,0 +1,12 @@
+Software.- El software es una palabra que proviene del idioma inglés, pero que gracias a la masificación de uso, 
+           ha sido aceptada por la Real Academia Española. Según la RAE, el software es un conjunto de programas, 
+           instrucciones y reglas informáticas que permiten ejecutar distintas tareas en una computadora.
+Hardware.- Conjunto de elementos físicos o materiales que constituyen una computadora o un sistema informático.
+Entorno.- Un entorno es un espacio o escenario informático en donde operan determinados comandos, funciones o características comunes.
+Codigo Fuente.- El código fuente de un programa informático (o software) es un conjunto de líneas de texto con los pasos que debe 
+		seguir la computadora para ejecutar dicho programa.
+Automatización.- La automatización es un sistema donde se trasfieren tareas de producción, realizadas habitualmente por operadores humanos 
+                 a un conjunto de elementos tecnológicos. La Parte Operativa es la parte que actúa directamente sobre la máquina. Son los 
+                 elementos que hacen que la máquina se mueva y realice la operación deseada.
+Parche.- En informática, un parche consta de cambios que se aplican a un programa, para corregir errores, agregarle funcionalidad, actualizarlo, etc.
+
